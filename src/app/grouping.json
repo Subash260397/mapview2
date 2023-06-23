@@ -1,0 +1,19 @@
+{
+    
+   "ClusteringGroup": 
+   [
+           {
+            "GroupName": "G1",
+            "Boundries":[  "b1","b2" ]
+           },
+           {
+            "GroupName": "G2",
+            "Boundries":["b3","b4" ]
+           },
+           {
+            "GroupName": "G3",
+            "Boundries":["b5" ]
+           } 
+  ]
+    
+}
